@@ -37,4 +37,6 @@ sol taraf ve sağ tarafın en küçüklerini kıyasladık ve küçük olanı ba�
 
 Her satırda yaptığımız işlemin time complexity 'i O(n) gelir.Bu işlemi 2^x=n x=logn kez yapıyoruz , tüm işlemleri işin içine katarsak **O(nlogn)** time complexity'e sahiptir. 
 
+https://www.patika.dev
+
 
